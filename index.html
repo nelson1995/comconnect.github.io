@@ -8,7 +8,7 @@
     </head>
     <body>
     <h2>Privacy Policy</h2> <p>
-                     built the ComConnect app as
+                     I built the ComConnect app as
                     a Commercial app. This SERVICE is provided by
                       and is intended for
                     use as is.
